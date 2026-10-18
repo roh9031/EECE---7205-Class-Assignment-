@@ -1,49 +1,48 @@
-# EECE 7205 - Assignment 1
+# EECE 7205 - Computer Engineering Course Assignments
 
-This repository contains the source code, executables, and final report for Assignment 1.
+This repository contains the source code, implementation files, benchmark scripts, and formal reports for EECE 7205 Class Assignments.
 
 ---
 
-## Directory Structure
+## Repository Structure
 
 ```text
-Class_Assignment_1_Bidnurmath/
-├── report and results/
-│   └── ClassAssignment_1_report_Bidnurmath.pdf
-└── src/
-    ├── Class_Assignment_1_problem1_Bidnurmath.cpp
-    ├── Class_Assignment_1_problem1_Bidnurmath.exe
-    ├── Class_Assignment_1_problem2_Bidnurmath.cpp
-    ├── Class_Assignment_1_problem2_Bidnurmath.exe
-    ├── Class_Assignment_1_problem3_Bidnurmath.cpp
-    ├── Class_Assignment_1_problem3_Bidnurmath.exe
-    ├── Class_Assignment_1_problem4_Bidnurmath.cpp
-    ├── Class_Assignment_1_problem4_Bidnurmath.exe
-    ├── Class_Assignment_1_problem5_Bidnurmath.cpp
-    ├── Class_Assignment_1_problem5_Bidnurmath.exe
-    ├── Class_Assignment_1_problem6_Bidnurmath.cpp
-    ├── Class_Assignment_1_problem6_Bidnurmath.exe
-    ├── Class_Assignment_1_problem7_Bidnurmath.cpp
-    └── Class_Assignment_1_problem7_Bidnurmath.exe
+EECE-7205-Class-Assignment/
+├── Class_Assignment_1_Bidnurmath/
+│   ├── report and results/
+│   │   └── ClassAssignment_1_report_Bidnurmath.pdf
+│   └── src/
+│       ├── Class_Assignment_1_problem1_Bidnurmath.cpp
+│       ├── Class_Assignment_1_problem2_Bidnurmath.cpp
+│       ├── Class_Assignment_1_problem3_Bidnurmath.cpp
+│       ├── Class_Assignment_1_problem4_Bidnurmath.cpp
+│       ├── Class_Assignment_1_problem5_Bidnurmath.cpp
+│       ├── Class_Assignment_1_problem6_Bidnurmath.cpp
+│       └── Class_Assignment_1_problem7_Bidnurmath.cpp
+├── Class_Assignment_2_Bidnurmath/
+│   └── report/
+│       └── ClassAssignment_2_FCE_Bidnurmath.pdf
+└── Class_Assignment_3_Bidnurmath_Buitano/
+    ├── report and results/
+    │   └── ClassAssignment_3_FCE_Bidnurmath_Buitano.pdf
+    └── src/
+        ├── Bonus.cpp
+        ├── Case1_original.cpp
+        ├── Case1_q3_modified.cpp
+        ├── Case2_original.cpp
+        ├── Case2_q2_modified.cpp
+        ├── Case3_original.cpp
+        ├── Case3_modified_q2q3.cpp
+        ├── Case3_q4_modified.cpp
+        ├── Case4_original.cpp
+        ├── Case4_q1_modified.cpp
+        ├── Case5_original.cpp
+        └── Case5_q3_q4_modified.cpp
 
 Folder Description
 report and results/: Contains the compiled PDF document detailing algorithmic analyses, theoretical complexities, empirical measurements, comparison tables, and output logs.
 
 src/: Contains all C++ source files (.cpp) and pre-compiled Windows executables (.exe) for Problems 1 through 7:
-
-Problem 1: Bubble Sort
-
-Problem 2: Insertion Sort
-
-Problem 3: Selection Sort
-
-Problem 4: Quick Sort (Lomuto Partitioning)
-
-Problem 5: Merge Sort
-
-Problem 6: Heap Sort
-
-Problem 7: Comprehensive Comparative Benchmarking Suite
 
 Building and Execution
 To compile and run any individual problem source file using g++:
