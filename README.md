@@ -23,21 +23,31 @@ EECE-7205-Class-Assignment/
 │   └── report/
 │       └── ClassAssignment_2_FCE_Bidnurmath.pdf
 └── Class_Assignment_3_Bidnurmath_Buitano/
+|    ├── report and results/
+|    │   └── ClassAssignment_3_FCE_Bidnurmath_Buitano.pdf
+|    └── src/
+|        ├── Bonus.cpp
+|        ├── Case1_original.cpp
+|        ├── Case1_q3_modified.cpp
+|        ├── Case2_original.cpp
+|        ├── Case2_q2_modified.cpp
+|        ├── Case3_original.cpp
+|        ├── Case3_modified_q2q3.cpp
+|        ├── Case3_q4_modified.cpp
+|        ├── Case4_original.cpp
+|        ├── Case4_q1_modified.cpp
+|        ├── Case5_original.cpp
+|        └── Case5_q3_q4_modified.cpp
+└── Class_Assignment_4_Bidnurmath
     ├── report and results/
-    │   └── ClassAssignment_3_FCE_Bidnurmath_Buitano.pdf
+    │    |── ClassAssignment_4_FCE_Bidnurmath.pdf
+    |    |__ output.txt
     └── src/
-        ├── Bonus.cpp
-        ├── Case1_original.cpp
-        ├── Case1_q3_modified.cpp
-        ├── Case2_original.cpp
-        ├── Case2_q2_modified.cpp
-        ├── Case3_original.cpp
-        ├── Case3_modified_q2q3.cpp
-        ├── Case3_q4_modified.cpp
-        ├── Case4_original.cpp
-        ├── Case4_q1_modified.cpp
-        ├── Case5_original.cpp
-        └── Case5_q3_q4_modified.cpp
+         ├── Class_Assignment_4_Bidnurmath.cpp
+      
+
+
+
 
 Folder Description
 report and results/: Contains the compiled PDF document detailing algorithmic analyses, theoretical complexities, empirical measurements, comparison tables, and output logs.
