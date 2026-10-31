@@ -38,13 +38,19 @@ EECE-7205-Class-Assignment/
 |        ├── Case4_q1_modified.cpp
 |        ├── Case5_original.cpp
 |        └── Case5_q3_q4_modified.cpp
-└── Class_Assignment_4_Bidnurmath
-    ├── report and results/
-    │    |── ClassAssignment_4_FCE_Bidnurmath.pdf
-    |    |__ output.txt
-    └── src/
-         ├── Class_Assignment_4_Bidnurmath.cpp
-      
+└── Class_Assignment_4_Bidnurmath/
+|    ├── report and results/
+|    │    |── ClassAssignment_4_FCE_Bidnurmath.pdf
+|    |    |__ output.txt
+|    └── src/
+|         └──Class_Assignment_4_Bidnurmath.cpp
+└── Class_Assignment_5_Bidnurmath/
+|    ├── report and results/
+|    │    |── ClassAssignment5_FCE_Bidnurmath_Buitano.pdf
+|    |    |__ output.txt
+|    └── src/
+|         ├── Q1.cpp
+|         └── Q2.cpp   
 
 
 
