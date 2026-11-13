@@ -51,6 +51,13 @@ EECE-7205-Class-Assignment/
 |    └── src/
 |         ├── Q1.cpp
 |         └── Q2.cpp   
+└── Class_Assignment_6_Bidnurmath/
+|    ├── report and results/
+|    │    ├── Class_Assignment_6_Bidnurmath.pdf
+|    |    └── output.txt
+|    └── src/
+|         ├── greedycharger.cpp
+|         └── greedychargerarrversion.cpp
 
 
 
@@ -70,3 +77,4 @@ g++ -O2 Class_Assignment_1_problem7_Bidnurmath.cpp -o Class_Assignment_1_problem
 
 # Execute on Windows
 .\Class_Assignment_1_problem7_Bidnurmath.exe
+```
