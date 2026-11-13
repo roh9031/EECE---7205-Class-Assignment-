@@ -1,0 +1,8 @@
+Test case: all arrive together - {900,1000},{900,1000},{900,1000},{900,1000}
+Chargers needed: 4
+
+Test case: all arrive back to back - {900,1000},{1000,1100},{1100,1200}
+Chargers needed: 1
+
+Test case: random timings - {800,900},{815,845},{830,1000},{845,930},{900,1015},{1000,1030}
+Chargers needed: 3
